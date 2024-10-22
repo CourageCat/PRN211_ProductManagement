@@ -1,0 +1,294 @@
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\appsettings.Development.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\appsettings.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.exe
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.deps.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.runtimeconfig.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Azure.Core.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.Repository.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.Service.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.Service.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.Repository.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.csproj.AssemblyReference.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.AssemblyInfoInputs.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.AssemblyInfo.cs
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.csproj.CoreCompileInputs.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.MvcApplicationPartsAssemblyInfo.cs
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.MvcApplicationPartsAssemblyInfo.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.SWP.ProductManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.build.SWP.ProductManagement.API.props
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SWP.ProductManagement.API.props
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SWP.ProductManagement.API.props
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\scopedcss\bundle\SWP.ProductManagement.API.styles.css
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.Prod.16742280.Up2Date
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\refint\SWP.ProductManagement.API.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.genruntimeconfig.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\ref\SWP.ProductManagement.API.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.AssemblyInfo.cs
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\refint\SWP.ProductManagement.API.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.pdb
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.exe
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.deps.json
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.runtimeconfig.json
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.pdb
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.Repository.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.Service.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.Service.pdb
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.Repository.pdb
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.SWP.ProductManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.build.SWP.ProductManagement.API.props
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SWP.ProductManagement.API.props
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SWP.ProductManagement.API.props
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\scopedcss\bundle\SWP.ProductManagement.API.styles.css
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.Prod.16742280.Up2Date
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.genruntimeconfig.cache
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\ref\SWP.ProductManagement.API.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\appsettings.Development.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\appsettings.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.exe
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.deps.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.runtimeconfig.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.API.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Azure.Core.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.Repository.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.Service.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.Service.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\SWP.ProductManagement.Repository.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.csproj.AssemblyReference.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.AssemblyInfoInputs.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.AssemblyInfo.cs
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.csproj.CoreCompileInputs.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.MvcApplicationPartsAssemblyInfo.cs
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.MvcApplicationPartsAssemblyInfo.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.SWP.ProductManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.build.SWP.ProductManagement.API.props
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SWP.ProductManagement.API.props
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SWP.ProductManagement.API.props
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\scopedcss\bundle\SWP.ProductManagement.API.styles.css
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.Prod.16742280.Up2Date
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\refint\SWP.ProductManagement.API.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\SWP.ProductManagement.API.genruntimeconfig.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\obj\Debug\net8.0\ref\SWP.ProductManagement.API.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Humanizer.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.CodeDom.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll

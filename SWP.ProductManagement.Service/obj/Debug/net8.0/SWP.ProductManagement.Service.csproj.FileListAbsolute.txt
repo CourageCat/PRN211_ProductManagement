@@ -1,0 +1,45 @@
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Service.deps.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Service.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Service.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Repository.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Repository.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.csproj.AssemblyReference.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.AssemblyInfoInputs.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.AssemblyInfo.cs
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.csproj.CoreCompileInputs.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.Prod.A6C9AE0C.Up2Date
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\refint\SWP.ProductManagement.Service.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\ref\SWP.ProductManagement.Service.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.AssemblyInfo.cs
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\refint\SWP.ProductManagement.Service.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.pdb
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Service.deps.json
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Service.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Service.pdb
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Repository.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Repository.pdb
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.Prod.A6C9AE0C.Up2Date
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\ref\SWP.ProductManagement.Service.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Service.deps.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Service.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Service.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Repository.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\bin\Debug\net8.0\SWP.ProductManagement.Repository.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.csproj.AssemblyReference.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.AssemblyInfoInputs.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.AssemblyInfo.cs
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.csproj.CoreCompileInputs.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.Prod.A6C9AE0C.Up2Date
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\refint\SWP.ProductManagement.Service.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\SWP.ProductManagement.Service.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Service\obj\Debug\net8.0\ref\SWP.ProductManagement.Service.dll

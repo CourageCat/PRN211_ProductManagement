@@ -1,0 +1,42 @@
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\bin\Debug\net8.0\SWP.ProductManagement.Repository.deps.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\bin\Debug\net8.0\SWP.ProductManagement.Repository.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\bin\Debug\net8.0\SWP.ProductManagement.Repository.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.AssemblyInfoInputs.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.AssemblyInfo.cs
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.csproj.CoreCompileInputs.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\refint\SWP.ProductManagement.Repository.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\ref\SWP.ProductManagement.Repository.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\bin\Debug\net8.0\SWP.ProductManagement.Repository.runtimeconfig.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.csproj.AssemblyReference.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.genruntimeconfig.cache
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\bin\Debug\net8.0\SWP.ProductManagement.Repository.deps.json
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\bin\Debug\net8.0\SWP.ProductManagement.Repository.runtimeconfig.json
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\bin\Debug\net8.0\SWP.ProductManagement.Repository.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\bin\Debug\net8.0\SWP.ProductManagement.Repository.pdb
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.AssemblyInfo.cs
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\refint\SWP.ProductManagement.Repository.dll
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.pdb
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.genruntimeconfig.cache
+C:\Users\PC\Downloads\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\ref\SWP.ProductManagement.Repository.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\bin\Debug\net8.0\SWP.ProductManagement.Repository.deps.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\bin\Debug\net8.0\SWP.ProductManagement.Repository.runtimeconfig.json
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\bin\Debug\net8.0\SWP.ProductManagement.Repository.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\bin\Debug\net8.0\SWP.ProductManagement.Repository.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.csproj.AssemblyReference.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.AssemblyInfoInputs.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.AssemblyInfo.cs
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.csproj.CoreCompileInputs.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\refint\SWP.ProductManagement.Repository.dll
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.pdb
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\SWP.ProductManagement.Repository.genruntimeconfig.cache
+E:\FPT\Semester 7\PRN221\SWP.ProductManagement.API (2)\SWP.ProductManagement.API\SWP.ProductManagement.Repository\obj\Debug\net8.0\ref\SWP.ProductManagement.Repository.dll

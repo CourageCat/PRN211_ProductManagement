@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pwtX0sZtxuZVSVz3E1q8SvbF+6d7YoBlVwN7ttfwvMw=",
+  "Source": "SWP.ProductManagement.API",
+  "BasePath": "_content/SWP.ProductManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
